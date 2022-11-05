@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   redis:
-    host: redis-stack
+    host: localhost
     port: 6379
   application:
     name: ms-bank-product-service
